@@ -1,4 +1,4 @@
-# xpkg-template | [xlings](https://github.com/d2learn/xlings)
+# openssl | [xlings](https://github.com/d2learn/xlings)
 
 > ...
 
@@ -34,9 +34,9 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 **安装命令**
 
 ```bash
-xlings install xpkgname
+xlings install openssl
 ```
 
 **Refs**
 
-- xxx
+- https://www.openssl.org
